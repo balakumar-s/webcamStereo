@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jarvis/ROS_jarvis/Projects/webcamStereo/build/devel/setup.sh
